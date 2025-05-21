@@ -26,7 +26,7 @@
 
 - Locate the s3 bucket created above. This will look like this [s3 bucket]()
 
-- Upload the 2 files in the webfiles directory of this project using the [link]()
+- Upload the 2 [files](/webfiles) located in the webfiles directory of this project into the your newly created bucket
 
 - This should look like this when your done 
 
@@ -41,13 +41,13 @@
 
 - Click on edit, to enable static website hosting. By default it is disable. This should like this. 
 
-![static-hosting]()
+![static-hosting](/assets/Screenshot from 2025-05-20 18-33-40.png)
 
 - Head back to the previes page below the `static website hosting` and copy the generated url for the static website
 
 - Click on this url. You should see a 403 error message 
 
-![403Error]()
+![403Error](/assets/Screenshot from 2025-05-20 18-38-50.png)
 
 
 
