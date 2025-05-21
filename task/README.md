@@ -30,7 +30,7 @@
 
 - This should look like this when your done 
 
-|![upload:status](assets/status.png)  |
+|![upload:status](/assets/status.png)  |
 |--------------------|
 |S3 service Management consol|
 
